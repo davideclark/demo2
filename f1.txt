@@ -1,0 +1,12 @@
+ Volume in drive C is Windows8_OS
+ Volume Serial Number is B6DA-FC95
+
+ Directory of c:\git\demo2
+
+31/05/2015  15:17    <DIR>          .
+31/05/2015  15:17    <DIR>          ..
+19/12/2014  05:57               395 .gitattributes
+31/05/2015  15:17             3,511 .gitignore
+31/05/2015  15:17                 0 f1.txt
+               3 File(s)          3,906 bytes
+               2 Dir(s)  68,852,043,776 bytes free
